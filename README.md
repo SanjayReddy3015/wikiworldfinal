@@ -1,5 +1,3 @@
-
-
 ---
 title: Country Wikipedia Explorer
 emoji: 🌍

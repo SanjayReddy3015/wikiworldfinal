@@ -6,3 +6,10 @@ pandas==2.0.3
 geopy==2.3.0
 Pillow==10.0.0
 
+
+streamlit
+requests
+folium
+streamlit-folium
+pandas
+
